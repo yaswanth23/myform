@@ -1,14 +1,14 @@
 @font-face {
     font-family: awesome-bold;
-    src: url("fonts/Parken-Bold.otf") format("opentype");
+    src: url("myFORM-Bold.otf") format("opentype");
 }
 @font-face {
     font-family: awesome-regular;
-    src: url("fonts/Parken-Regular.otf") format("opentype");
+    src: url("myFORM-Regular.otf") format("opentype");
 }
 @font-face {
     font-family: awesome-wide;
-    src: url("fonts/Parken-Wide.otf") format("opentype");
+    src: url("myFORM-Wide.otf") format("opentype");
 }
 * {
     box-sizing: border-box;
